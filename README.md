@@ -1,6 +1,8 @@
 # Urban Scenes Classifier
 Classification of Google Urban Scenes dataset images into the corresponding city.
 
+Checkout the project report to get a detailed idea.
+
 
 MATLAB version used: 2019a
 
